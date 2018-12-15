@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1525333039065" stop="1525333046538">
+	<name>Validating the Calculator app</name>
+	<title>Validating the Calculator app</title>
+	<test-cases>
+		<test-case start="1525333039065" stop="1525333043871" status="passed">
+			<name>Validate exact title</name>
+			<title>Validate exact title</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="938a814d-2f1b-4606-949e-2a9c8706cfaa-attachment.png" type="image/png" size="18022"/>
+			</attachments>
+		</test-case>
+		<test-case start="1525333043871" stop="1525333045824" status="passed">
+			<name>Validate title should not match</name>
+			<title>Validate title should not match</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="338b0a69-deac-4a05-b810-ca6511a942fb-attachment.png" type="image/png" size="45572"/>
+			</attachments>
+		</test-case>
+		<test-case start="1525333045824" stop="1525333046538" status="passed">
+			<name>Validate partial title match</name>
+			<title>Validate partial title match</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="d13a11fd-9ae9-4fcf-aa1e-ca50de1b0898-attachment.png" type="image/png" size="45572"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

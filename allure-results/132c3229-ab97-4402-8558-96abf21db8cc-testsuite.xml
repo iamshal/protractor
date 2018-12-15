@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1526278650434" stop="1526278656093">
+	<name>Validating the table</name>
+	<title>Validating the table</title>
+	<test-cases>
+		<test-case start="1526278650434" stop="1526278656093" status="passed">
+			<name>validate table</name>
+			<title>validate table</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="7803453a-4497-47c8-8c3a-f0311828ef16-attachment.png" type="image/png" size="78818"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

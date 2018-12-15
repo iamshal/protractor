@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1525518135086" stop="1525518144450">
+	<name>Validating the calculator app</name>
+	<title>Validating the calculator app</title>
+	<test-cases>
+		<test-case start="1525518135086" stop="1525518139194" status="passed">
+			<name>validate 1 + 1 = 2</name>
+			<title>validate 1 + 1 = 2</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="9bbffa8d-247f-4d07-be69-a3b2eeca3319-attachment.png" type="image/png" size="22305"/>
+			</attachments>
+		</test-case>
+		<test-case start="1525518139194" stop="1525518141816" status="passed">
+			<name>validate 1 + 1 = 2</name>
+			<title>validate 1 + 1 = 2</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="bf1994bf-4e40-4fe4-b3b9-70579df249f1-attachment.png" type="image/png" size="21984"/>
+			</attachments>
+		</test-case>
+		<test-case start="1525518141816" stop="1525518144450" status="passed">
+			<name>validate 1 + 1 = 2</name>
+			<title>validate 1 + 1 = 2</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="b046dc1a-b0d5-4648-af89-d4d443a47488-attachment.png" type="image/png" size="22144"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1525334018281" stop="1525334022548">
+	<name>Validating the Calculator app</name>
+	<title>Validating the Calculator app</title>
+	<test-cases>
+		<test-case start="1525334018282" stop="1525334020997" status="failed">
+			<name>Validate exact title</name>
+			<title>Validate exact title</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="85d31787-1d3b-4a85-bd98-cca76b554b59-attachment.png" type="image/png" size="18022"/>
+			</attachments>
+			<failure>
+				<message>Expected &apos;Protractor practice website - Calculator&apos; to equal &apos;Protractor practice website1 - Calculator&apos;.</message>
+				<stack-trace>Error: Failed expectation
+    at C:\Users\123\WebstormProjects\ProtractorTest\TestMatchers.js:20:27
+    at ManagedPromise.invokeCallback_ (C:\Users\123\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:1376:14)
+    at TaskQueue.execute_ (C:\Users\123\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3084:14)
+    at TaskQueue.executeNext_ (C:\Users\123\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:3067:27)
+    at asyncRun (C:\Users\123\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:2974:25)
+    at C:\Users\123\AppData\Roaming\npm\node_modules\protractor\node_modules\selenium-webdriver\lib\promise.js:668:7
+    at &lt;anonymous&gt;
+    at process._tickCallback (internal/process/next_tick.js:188:7)</stack-trace>
+			</failure>
+		</test-case>
+		<test-case start="1525334020997" stop="1525334021980" status="passed">
+			<name>Validate title should not match</name>
+			<title>Validate title should not match</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="24bf5ff2-86dc-4f65-999c-7f3ef0421a97-attachment.png" type="image/png" size="45572"/>
+			</attachments>
+		</test-case>
+		<test-case start="1525334021980" stop="1525334022548" status="passed">
+			<name>Validate partial title match</name>
+			<title>Validate partial title match</title>
+			<description></description>
+			<labels>
+			</labels>
+			<steps>
+			</steps>
+			<attachments>
+				<attachment title="Screenshot" source="5e7f4feb-3d30-410b-8b87-60af5eea18fe-attachment.png" type="image/png" size="45572"/>
+			</attachments>
+		</test-case>
+	</test-cases>
+</ns2:test-suite>
